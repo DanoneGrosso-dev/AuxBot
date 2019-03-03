@@ -1,0 +1,23 @@
+{
+  "name": "AuxBot",
+  "version": "1.0.0",
+  "description": "AuxBot é um projeto para ser lançado por criadores experientes de bots para discord",
+  "main": "auxbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devhijazi/AuxBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devhijazi/AuxBot/issues"
+  },
+  "homepage": "https://github.com/devhijazi/AuxBot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}

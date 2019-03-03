@@ -1,0 +1,9 @@
+{
+"token": "NTUxODIxNDMyMTQxNjQzNzc4.D12jSg.bCI0b13oR8UoLmJb-_yZZoHAJ44",
+    "paths": {
+        "comandos": "./comandos",
+        "eventos": "./eventos"
+    },
+    "prefix":"a-"
+
+}
